@@ -2,7 +2,7 @@
 
 ## Qui suis-je ? 🤷‍♂️
 
-→ Je m'appelle Romain, 24 ans, jeune développeur fullstack 👨‍💻
+→ Je m'appelle Romain, 24 ans, jeune développeur fullstack 👨‍💻<br>
 → Breton d'origine, je suis actuellement sur Nantes 📍
 
 ## Stack ? 💻
