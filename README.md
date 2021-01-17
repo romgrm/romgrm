@@ -7,8 +7,8 @@
 
 ## Stack ? 💻
 
-**Back** → Java avec Springboot & JPA/Hibernate pour la création d'API RestFull<br>
-**Front** → React / ReactNative , Redux, Bootstrap/Tailwind, Sass<br>
+**Back** → Java avec Springboot & JPA/Hibernate && NodeJs/ExpressJs pour la création d'API RestFull<br>
+**Front** → React / ReactNative , Redux, Bootstrap/Tailwind, Sass, MaterialUI<br>
 **BDD** → MySql, Postman, Ngrok, Workbench/phpMyAdmin<br>
 **UX Design** → Adobe XD / Figma<br>
 **Gestion** → Jira / Lucid<br>
