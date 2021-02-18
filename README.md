@@ -18,13 +18,13 @@
 → En étude actuellement dans un *Bac+2 Développeur Web/Mobile*<br>
 → Réalisations de différents projets en Java (Jeu du Morpion, Jeu du Pendu, Katas...)<br>
 → Réalisations d'un pokedex, interface front... (javascript/Html/Css (GreenSock))<br>
-→ Création d'un porjet de location de voiture (API + Interface admin + App mobile)<br> 
-→ Création de mon Portfolio (en cours)<br>
-→ Stage en Janvier 2021 (plus d'infos à venir...)<br> 
+→ Création d'un projet de location de voiture (API + Interface admin + App mobile)<br> 
+→ Création de mon Portfolio (Html/Css, Js avec Locomotiv Scroll)<br>
+→ Stage en Janvier 2021 (Numenor => Création de site web avec React + API en NodeJs avec ExpressJs)<br> 
 
 ## Et pour la suite ? ⚠️
 
-→ Je recherche une **alternance** à partir de Mai 2021 en tant que développeur Fullstack Java/React<br> 
+→ Je recherche une **alternance** / **CDI** à partir de Mai 2021 en tant que développeur Fullstack Java/React<br> 
 
 ## Contact ✅
 
