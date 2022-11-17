@@ -1,23 +1,28 @@
 ### HELLO ✌️ 
 
-## Qui suis-je ? 🤷‍♂️
+## Who I am ? 🤷‍♂️
 
-→ Je m'appelle Romain, 25 ans, jeune développeur mobile 👨‍💻<br>
-→ Breton d'origine, je suis actuellement sur Nantes 📍
+→ Romain, 26 years old, young mobile developer 👨‍💻<br>
+→ Actually in Nantes, France 📍
 
 ## Stack ? 💻
 
-iOS || Flutter || React Native
+Flutter || iOS || React Native
 
-## Que fais-je ? 👨‍💻
+## Creator of ? 👨‍💻
 
-→ Développeur mobile iOS & Flutter chez Beapp
+→ [Flutter Mimecon package](https://pub.dev/packages/mimecon)
+→ [Flutter caching strategy article](https://medium.com/@romaingreaume/implementing-a-cache-strategy-in-your-flutter-app-5db3e316e7c9)  
 
-## Contact ✅
+## Soon ? ⏩
+
+→ flutter_caching_stratey package 
+
+## Contact 📱
 
 📱 06.40.60.05.04<br>
 📩 romaingreaume@gmail.com<br>
 🔵 https://www.linkedin.com/in/romaingreaume/<br>
-💻 https://romaingreaume.fr/
+🐦 https://twitter.com/romaingrm
 
-### A plus 👋
+### See ya 👋
