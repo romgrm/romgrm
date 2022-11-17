@@ -11,7 +11,7 @@ Flutter || iOS || React Native
 
 ## Creator of ? 👨‍💻
 
-→ [Flutter Mimecon package](https://pub.dev/packages/mimecon)
+→ [Flutter Mimecon package](https://pub.dev/packages/mimecon)<br>
 → [Flutter caching strategy article](https://medium.com/@romaingreaume/implementing-a-cache-strategy-in-your-flutter-app-5db3e316e7c9)  
 
 ## Soon ? ⏩
