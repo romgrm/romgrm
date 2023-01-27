@@ -1,22 +1,20 @@
 ### HELLO ✌️ 
 
-## Who I am ? 🤷‍♂️
+## Who I am 🤷‍♂️
 
-→ Romain, 26 years old, young mobile developer 👨‍💻<br>
+→ Romain, 26 years old, mobile developer 👨‍💻<br>
 → Actually in Nantes, France 📍
 
 ## Stack ? 💻
 
-Flutter || iOS || React Native
+Flutter/Dart && iOS 
 
-## Creator of ? 👨‍💻
+## Creator of 👨‍💻
 
-→ [Flutter Mimecon package](https://pub.dev/packages/mimecon)<br>
-→ [Flutter caching strategy article](https://medium.com/@romaingreaume/implementing-a-cache-strategy-in-your-flutter-app-5db3e316e7c9)  
-
-## Soon ? ⏩
-
-→ flutter_caching_stratey package 
+→ 🖇️ [Flutter Mimecon package](https://pub.dev/packages/mimecon)<br>
+→ 🔐 [encrypted_key](https://pub.dev/packages/encrypted_key)<br>
+→ 📂 [Flutter_cache_strategy](https://github.com/romgrm/flutter_cache_strategy)<br>
+→ 📖 [Flutter caching strategy article](https://medium.com/@romaingreaume/implementing-a-cache-strategy-in-your-flutter-app-5db3e316e7c9)  
 
 ## Contact 📱
 
