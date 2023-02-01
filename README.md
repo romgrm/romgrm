@@ -20,6 +20,7 @@ Flutter/Dart && iOS
 
 📱 06.40.60.05.04<br>
 📩 romaingreaume@gmail.com<br>
+🖋️ https://medium.com/@romaingreaume<br>
 🔵 https://www.linkedin.com/in/romaingreaume/<br>
 🐦 https://twitter.com/romaingrm
 
