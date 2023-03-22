@@ -13,7 +13,7 @@ Flutter/Dart && iOS
 
 → 🖇️ [Flutter Mimecon package](https://pub.dev/packages/mimecon)<br>
 → 🔐 [encrypted_key](https://pub.dev/packages/encrypted_key)<br>
-→ 📂 [Flutter_cache_strategy](https://github.com/romgrm/flutter_cache_strategy)<br>
+→ 📂 [Flutter_cache_strategy](https://pub.dev/packages/flutter_cache_strategy)<br>
 → 📖 [Flutter caching strategy article](https://medium.com/@romaingreaume/implementing-a-cache-strategy-in-your-flutter-app-5db3e316e7c9)  
 
 ## Contact 📱
